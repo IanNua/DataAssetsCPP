@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\C.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\C.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\C">
+      <UniqueIdentifier>{E27843FB-F59D-3205-B4D4-46EA85836169}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\C\C.Build.cs">
+      <Filter>Source\C</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\C\C.cpp">
+      <Filter>Source\C</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\C\C.h">
+      <Filter>Source\C</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\C\CGameModeBase.cpp">
+      <Filter>Source\C</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\C\CGameModeBase.h">
+      <Filter>Source\C</Filter>
+    </ClInclude>
+    <Filter Include="Source\C\Private">
+      <UniqueIdentifier>{9D0F395B-5DCA-32D0-A5F2-E0545ADFF8BF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\C\Private\MyPrimaryDataAsset.cpp">
+      <Filter>Source\C\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\C\Public">
+      <UniqueIdentifier>{E2E85CA0-DBD3-3A9B-B7F9-C26609989F47}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\C\Public\MyPrimaryDataAsset.h">
+      <Filter>Source\C\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

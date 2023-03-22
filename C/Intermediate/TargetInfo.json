@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "C",
+			"Path": "D:\\IG\\C\\Source\\C.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CEditor",
+			"Path": "D:\\IG\\C\\Source\\CEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

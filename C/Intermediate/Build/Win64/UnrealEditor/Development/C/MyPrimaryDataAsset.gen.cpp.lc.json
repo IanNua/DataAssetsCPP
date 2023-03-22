@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\ig\\c\\intermediate\\build\\win64\\unrealeditor\\inc\\c\\myprimarydataasset.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ig\\c\\intermediate\\build\\win64\\ceditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\ig\\c\\intermediate\\build\\win64\\unrealeditor\\development\\c\\definitions.c.h",
+            "d:\\ig\\c\\source\\c\\public\\myprimarydataasset.h",
+            "d:\\ig\\c\\intermediate\\build\\win64\\unrealeditor\\inc\\c\\myprimarydataasset.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
